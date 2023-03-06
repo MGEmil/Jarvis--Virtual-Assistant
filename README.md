@@ -12,4 +12,5 @@ Virtual assistants use Artificial Intelligence to match user text input to execu
  - Restart,ShutDown your computer
  - Send messages via WhatsApp
  
- 
+ # How it is working?
+   After you run the program, you wait until in console appear this:"__Listening...__". After, you can speak with the program to do different commands(e.g.:play music,open facebook,shutdown etc)(the commands are in program).The program still running until you will tell it:"__you can sleep__" and the program is stops.
